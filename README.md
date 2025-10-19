@@ -1,4 +1,3 @@
-Here's a simple, clear README for your project:
 
 ```markdown
 # Air Quality Classification Using Machine Learning
