@@ -117,5 +117,3 @@ Best Verie Iradukunda
 ## License
 This project is for academic purposes.
 ```
-
-This README is clear, professional, and covers all essential information someone would need to understand and run your project! 🚀
